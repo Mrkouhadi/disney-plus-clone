@@ -83,7 +83,7 @@ const Container = styled.div`
 const Background = styled.div`
     position:fixed;
     left:0; top:0; right:0;
-    opacity:.8;
+    opacity:.7;
     z-index:-1;
 
     img{
@@ -173,7 +173,7 @@ const AddList = styled.div`
     align-items:center;
     background-color:rgba(0,0,0,.6);
     border-radius:50%;
-    border:2px solid white;
+    border:1px solid white;
     cursor:pointer;
 
     span{
