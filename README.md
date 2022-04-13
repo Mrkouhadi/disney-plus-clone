@@ -3,8 +3,9 @@
 <p>run : </p> 
 `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
+<p>Enjoy your coding !</p>
 
 ## screenshots:
 ![disney-lg](https://user-images.githubusercontent.com/68134403/139709647-9dbcc565-2f2e-4fed-ab52-cacd8a1d5e81.png)
